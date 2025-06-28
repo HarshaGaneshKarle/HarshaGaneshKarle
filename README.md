@@ -1,4 +1,4 @@
-# Hi, I'm Harsha Ganesh Karle!
+# Hi, I'm Harsha!
 
 Final-year Computer Science Engineering student coding the future, one Python script at a time. I’m all about building slick, practical apps that make life better—like my **[Gym & Diet Planner App](#)** blending my love for tech and fitness. When I’m not slinging code, I’m crushing it in the gym, chasing that next PR (personal record *and* pull request).
 
